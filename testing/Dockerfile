@@ -1,4 +1,4 @@
-FROM golang:1.10-stretch
+FROM golang:1.16.3-stretch
 MAINTAINER Radu Topala <radu.topala@trisoft.ro>
 
 RUN apt-get update
